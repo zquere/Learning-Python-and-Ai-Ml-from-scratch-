@@ -25,3 +25,32 @@ print(f"top_average-{mean(top)}",f"Average - {mean(average)}",f"Low_average-{mea
 
 
 
+# not a project but it is intresting how to check empty list
+# list = []
+# if list:
+#     for list in list:
+#         print(f"list - {list}")
+# else:
+#      print("list is empty")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
