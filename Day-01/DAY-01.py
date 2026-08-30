@@ -53,4 +53,10 @@ for i in l:
 for i in range(0,len(l)):
     print(l[i])
 
+# THIS IS EXAMPLE OF FUNCTION-
+    
+    def a():# we first declare variable(innner varible(that we use in code))
+    print("hello")
+a()# a(inner vaiable if it use)
+
 # at know i thnik i hold it 
