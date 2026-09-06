@@ -221,17 +221,17 @@ The goal is to **use it**.
 
 ## 📦 Variables & Data Types
 
-- [ ] Variables
-- [ ] Naming conventions
-- [ ] Integers
-- [ ] Floats
-- [ ] Complex numbers
-- [ ] Strings
-- [ ] Booleans
-- [ ] `None`
-- [ ] Type conversion
-- [ ] `type()`
-- [ ] Mutable vs immutable objects
+- [x] Variables
+- [x] Naming conventions
+- [x] Integers
+- [x] Floats
+- [x] Complex numbers
+- [x] Strings
+- [x] Booleans
+- [x] `None`
+- [x] Type conversion
+- [x] `type()`
+- [x] Mutable vs immutable objects
 
 ---
 
@@ -239,72 +239,72 @@ The goal is to **use it**.
 
 ### Lists
 
-- [ ] Creating lists
-- [ ] Indexing
-- [ ] Slicing
-- [ ] Adding elements
-- [ ] Removing elements
-- [ ] Sorting
-- [ ] List methods
-- [ ] Nested lists
-- [ ] List comprehensions
+- [x] Creating lists
+- [x] Indexing
+- [x] Slicing
+- [x] Adding elements
+- [x] Removing elements
+- [x] Sorting
+- [x] List methods
+- [x] Nested lists
+- [x] List comprehensions
 
 ### Tuples
 
-- [ ] Creating tuples
-- [ ] Indexing
-- [ ] Slicing
-- [ ] Tuple unpacking
-- [ ] Immutability
+- [x] Creating tuples
+- [x] Indexing
+- [x] Slicing
+- [x] Tuple unpacking
+- [x] Immutability
 
 ### Sets
 
-- [ ] Creating sets
-- [ ] Adding/removing elements
-- [ ] Union
-- [ ] Intersection
-- [ ] Difference
-- [ ] Set operations
+- [x] Creating sets
+- [x] Adding/removing elements
+- [x] Union
+- [x] Intersection
+- [x] Difference
+- [x] Set operations
 
 ### Dictionaries
 
-- [ ] Keys
-- [ ] Values
-- [ ] Key-value pairs
-- [ ] Adding/removing data
-- [ ] Dictionary methods
-- [ ] Nested dictionaries
-- [ ] Dictionary comprehensions
+- [x] Keys
+- [x] Values
+- [x] Key-value pairs
+- [x] Adding/removing data
+- [x] Dictionary methods
+- [x] Nested dictionaries
+- [x] Dictionary comprehensions
 
 ---
 
 # ➗ Operators
 
-- [ ] Arithmetic operators
-- [ ] Comparison operators
-- [ ] Logical operators
-- [ ] Assignment operators
-- [ ] Membership operators
-- [ ] Identity operators
-- [ ] Bitwise operators
-- [ ] Operator precedence
+- [x] Arithmetic operators
+- [x] Comparison operators
+- [x] Logical operators
+- [x] Assignment operators
+- [x] Membership operators
+- [x] Identity operators
+- [x] Bitwise operators
+- [x] Operator precedence
 
 ---
 
 # 🔀 Control Flow
 
-- [ ] `if`
-- [ ] `elif`
-- [ ] `else`
-- [ ] Nested conditions
-- [ ] `for`
-- [ ] `while`
-- [ ] `break`
-- [ ] `continue`
-- [ ] `pass`
-- [ ] `range()`
-- [ ] `enumerate()`
-- [ ] `zip()`
+- [x] `if`
+- [x] `elif`
+- [x] `else`
+- [x] Nested conditions
+- [x] `for`
+- [x] `while`
+- [x] `break`
+- [x] `continue`
+- [x] `pass`
+- [x] `range()`
+- [x] `enumerate()`
+- [x] `zip()`
 
 ---
 
